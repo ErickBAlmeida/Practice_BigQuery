@@ -1,4 +1,4 @@
-# Exercícios de BigQuery
+# 🔎 Exercícios de BigQuery
 
 ### Descrição
 - Script simples para extrair JSON de uma API, transformar em `pandas.DataFrame` e carregar em uma tabela do BigQuery.
